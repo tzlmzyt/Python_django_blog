@@ -27,7 +27,7 @@ function global:deactivate ([switch]$NonDestructive) {
 
 deactivate -nondestructive
 
-$env:VIRTUAL_ENV="D:\Django1\django_blog_tutorial-master\env"
+$env:VIRTUAL_ENV="D:\Django1\django_tzlmzyt - Copy (2)\env"
 
 if (! $env:VIRTUAL_ENV_DISABLE_PROMPT) {
     # Set the prompt to include the env name
